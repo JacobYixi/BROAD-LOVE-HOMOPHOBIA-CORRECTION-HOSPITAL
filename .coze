@@ -3,8 +3,8 @@ requires = ["nodejs-24"]
 
 [dev]
 build = []
-run = ["sh", "-c", "npx serve -l ${DEPLOY_RUN_PORT} -s ."]
+run = ["sh", "-c", "node server.js"]
 
 [deploy]
 build = []
-run = ["sh", "-c", "npx serve -l ${DEPLOY_RUN_PORT} -s ."]
+run = ["sh", "-c", "node server.js"]
