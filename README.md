@@ -1,6 +1,6 @@
 # 博爱恐同症矫治医院
 
-> **声明：本仓库为新版网站源码（未构建），旧版源码请[移步旧版仓库](https://github.com/JacobYixi/old-broadlovehch)或[备用下载地址](#相关链接)。本网站为讽刺性艺术项目，所有机构、人物、案例均为虚构。**
+> **声明：本仓库为已构建的新版网站，未构建的源码请移步[新版源码仓库](https://github.com/JacobYixi/new-broadlovehch)或[旧版源码仓库](https://github.com/JacobYixi/old-broadlovehch)。本网站为讽刺性艺术项目，所有机构、人物、案例均为虚构。**
 
 ## 项目简介
 
