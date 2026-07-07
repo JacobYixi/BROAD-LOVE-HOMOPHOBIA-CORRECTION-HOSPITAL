@@ -13,12 +13,12 @@
 ### 新版医院（正式版）
 - **主域名**：[new.broadlovehch.top](https://new.broadlovehch.top)
 - **备用域名**：[bynew.broadlovehch.top](https://bynew.broadlovehch.top)
-- **源码仓库**：[GitHub](https://github.com/JacobYixi/new-broadlovehch)
+- **源码仓库（未构建）**：[GitHub](https://github.com/JacobYixi/new-broadlovehch)
 
 ### 旧版医院（视频展示版）
 - **主域名**：[www.broadlovehch.top](https://www.broadlovehch.top)
 - **备用域名**：[old.broadlovehch.top](https://old.broadlovehch.top)
-- **源码仓库**：[GitHub](https://github.com/JacobYixi/old-broadlovehch)
+- **源码仓库（未构建）**：[GitHub](https://github.com/JacobYixi/old-broadlovehch)
 
 > 由于网络波动，网站链接有时访问会不稳定。如果遇到无法访问的情况，请尝试使用备用域名。
 
