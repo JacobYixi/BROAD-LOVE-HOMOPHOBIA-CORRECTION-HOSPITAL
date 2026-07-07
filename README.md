@@ -25,6 +25,9 @@
 ## 相关链接
 
 - **项目视频**：[我做了一个恐同症矫治医院 - Bilibili](https://www.bilibili.com/video/BV1cnLA6nEEe)
+- **源码仓库（未构建）**：
+  - [新版源码](https://github.com/JacobYixi/new-broadlovehch)
+  - [旧版源码](https://github.com/JacobYixi/old-broadlovehch)
 - **源码备用下载地址（新旧版）**：[百度网盘](https://pan.baidu.com/s/10JYsW36jq-zRCl-7MCCUKA?pwd=7198)
 
 ## 功能模块
